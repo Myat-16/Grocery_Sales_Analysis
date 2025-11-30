@@ -3,7 +3,7 @@
 ## Business Impacts (High level analysis & Operational level analysis by staff)
 1. Tracking daily/monthly sales and customer counts allows stores to adjust stock levels, reducing both shortages and overstock.​
 
-2. Understanding sales and order counts by category helps focus investment on top sellers and reevaluate slow movers for discounts, phase-out, or promotions.​
+2. Understanding sales and order counts by category helps focus investment on top sellers and reevaluate slow movers for discounts, or promotions.​
 
 3. Understanding sales and orders counts by staffs to Optimizes business growth by analyzing customer behavior, order counts, and sales performance to improve staff effectiveness and customer satisfaction.
 ## Approches Details

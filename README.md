@@ -1,5 +1,5 @@
 # Project name: Grocery Sales Analysis
-## Data Source : https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset
+### Data Source : https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset
 ## Business Impacts (High level analysis & Operational level analysis by staff)
 1. Tracking daily/monthly sales and customer counts allows stores to adjust stock levels, reducing both shortages and overstock.​
 

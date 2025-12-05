@@ -12,3 +12,8 @@
 2. Cleaned and processed millions of rows in Python
 3. Aggregated and visualized results in Excel, building an interactive dashboard for deep analysis
 
+### Grocery Sales Analysis for High Level
+<img width="1370" height="577" alt="image" src="https://github.com/user-attachments/assets/7dce6340-d2f4-4274-8227-b1005775f5aa" />
+
+### Grocery Sales Analysis for Operational Level by Staff
+<img width="1719" height="472" alt="image" src="https://github.com/user-attachments/assets/26248a9d-7235-48d1-930b-ff4aec82829f" />

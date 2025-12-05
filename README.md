@@ -16,4 +16,4 @@
 <img width="1370" height="577" alt="image" src="https://github.com/user-attachments/assets/7dce6340-d2f4-4274-8227-b1005775f5aa" />
 
 ### Grocery Sales Analysis for Operational Level by Staff
-<img width="1719" height="472" alt="image" src="https://github.com/user-attachments/assets/26248a9d-7235-48d1-930b-ff4aec82829f" />
+<img width="1701" height="434" alt="image" src="https://github.com/user-attachments/assets/df3021f2-3c5b-41ff-af28-5bb62a687519" />
